@@ -57,10 +57,11 @@ body {
 }
 
 a {
-  color: blue;
+  color: #c5000c;
 }
 a:hover {
   color: #c5000c;
+  color: green;
 }
 
 header {
@@ -166,7 +167,7 @@ a.button span {
 }
 
 code, pre {
-  margin-bottom: 30px;
+  margin-bottom: 3px;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
   font-size: 14px;
   color: #222;
@@ -179,7 +180,7 @@ code {
 }
 
 pre {
-  padding: 20px;
+  padding: 2px;
   overflow: auto;
   color: #f2f2f2;
   text-shadow: none;
